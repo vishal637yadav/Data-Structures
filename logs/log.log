@@ -1,0 +1,77 @@
+02-04-2021 15:41:13.390 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:13.400 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:13.402 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:13.402 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:13.402 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:41:13.434 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:41:13.435 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:41:13.435 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 15:41:28.478 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:28.486 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:28.487 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:28.487 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:41:28.488 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:41:28.489 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:41:28.489 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:41:28.489 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 15:42:54.755 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:42:54.786 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:42:54.790 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:42:54.791 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:42:54.792 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:42:54.793 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:42:54.794 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:42:54.795 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 15:47:17.554 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:47:17.575 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:47:17.577 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:47:17.578 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:47:17.580 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:47:17.581 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:47:17.591 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:47:17.594 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 15:48:26.451 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:48:26.460 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:48:26.462 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:48:26.462 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:48:26.463 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:48:26.463 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:48:26.464 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:48:26.464 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 15:56:09.966 [main] DEBUG com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:56:09.989 [main] INFO  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:56:09.991 [main] WARN  com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:56:09.992 [main] ERROR com.datastructures.TestMain.main - |--------->>This is Main Class!!!!--<<<<---------logger :Logger[com.datastructures.TestMain]:|
+02-04-2021 15:56:09.996 [main] DEBUG com.datastructures.TestMain.doStuff - doStuff needed to debug - Vishal
+02-04-2021 15:56:09.998 [main] INFO  com.datastructures.TestMain.doStuff - doStuff took input - Vishal
+02-04-2021 15:56:09.999 [main] WARN  com.datastructures.TestMain.doStuff - doStuff needed to warn - Vishal
+02-04-2021 15:56:10.001 [main] ERROR com.datastructures.TestMain.doStuff - doStuff encountered an error with value - Vishal
+02-04-2021 16:14:33.606 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:16:46.050 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:16:46.064 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:16:46.069 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:16:46.070 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:21.296 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:21.321 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:21.323 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:21.324 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:51.530 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:51.542 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:51.544 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:17:51.545 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:18:29.681 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:18:29.692 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:18:29.694 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:18:29.696 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:20:11.725 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:20:11.734 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:20:11.736 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:20:11.738 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:05.232 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:05.242 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:05.243 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:05.245 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:32.771 [main] DEBUG com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:32.779 [main] INFO  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:32.781 [main] WARN  com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
+02-04-2021 16:21:32.782 [main] ERROR com.datastructures.TestMain.main - Main Class :Logger[com.datastructures.TestMain]
