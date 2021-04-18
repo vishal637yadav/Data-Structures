@@ -11,6 +11,7 @@ public class Combination {
         printAllFourCombination(a);
         System.out.println("---------------------------------------------");
         printAllFiveCombination(a);
+        System.out.println("-------End of Line print----------------------------------------");
 
     }
 
